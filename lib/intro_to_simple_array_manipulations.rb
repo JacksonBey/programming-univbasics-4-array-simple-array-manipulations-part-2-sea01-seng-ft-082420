@@ -1,5 +1,5 @@
 def using_concat(array1,array2)
-
+arra1.concat
 end
 
 
