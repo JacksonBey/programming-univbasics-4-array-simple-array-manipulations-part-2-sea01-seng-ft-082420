@@ -24,5 +24,5 @@ end
 
 
 def using_delete_at(array,int)
-array.delete
+array.delete_at(int)
 end
